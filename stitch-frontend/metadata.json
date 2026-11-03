@@ -1,0 +1,6 @@
+{
+  "name": "BusTrack - IoT Transit & Student Safety Portal",
+  "description": "Sub-second IoT GPS telemetry, automated RFID student verification, and unified fleet safety operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

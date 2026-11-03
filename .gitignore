@@ -1,0 +1,46 @@
+# ── Python / Django ───────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+*.env
+db.sqlite3
+*.log
+*.pot
+staticfiles/
+media/
+
+# ── Node / Vite ───────────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/.cache/
+stitch-frontend/node_modules/
+stitch-frontend/dist/
+
+# ── Environment / Secrets ─────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+frontend/.env.local
+
+# ── OS / Editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── Archives ──────────────────────────────────────────────────────────────────
+*.zip
+*.tar.gz
